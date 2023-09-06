@@ -1,4 +1,5 @@
 #!/bin/bash
-
 echo -e '#!/bin/bash\n\necho "Hello, World!"' > script.sh
-chmod +x script.sh
+
+
+
